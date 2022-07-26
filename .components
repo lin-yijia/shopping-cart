@@ -1,0 +1,9 @@
+---
+:orm: none
+:test: none
+:mock: none
+:script: prototype
+:renderer: erb
+:stylesheet: none
+:namespace: ShoppingCart
+:migration_format: number

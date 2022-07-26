@@ -1,0 +1,12 @@
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input { margin: 0; padding: 0; }
+a img,:link img,:visited img { border: none; }
+a:link { color: #683B00; }
+a:visited { color: #683B00; }
+a:hover { text-decoration: none; }
+body {background:white; color:black; }
+body, th, td { font:11px/1.4em Arial,Verdana,sans-serif; }
+p { margin-bottom:0.5em;}
+
+#content {
+  padding: 30px;
+}
